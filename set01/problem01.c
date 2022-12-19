@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
 
-  printf("Name : shankar\n");
+  printf("Name: shankar\n");
 
   return 0;
 }
